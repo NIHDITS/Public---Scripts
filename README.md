@@ -15,3 +15,7 @@ lastLoginfromfile.ps1 - get a list of users from a text file and gives informati
 -------------------------------------------------------------------------------------------
 
 SecurityScanner.ps1 - Installs and runs NMAP scans, gathers active directory information and check for password issues and get password hashes 
+
+-------------------------------------------------------------------------------------------
+
+PublicHashes - List of updated hashes for malware
