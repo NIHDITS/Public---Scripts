@@ -1,4 +1,4 @@
-Scripts Created by our staff and avaliable for PUBLIC use.
+***** Scripts Created by our staff and avaliable for PUBLIC use. *****
 
 SecurityScanner.ps1  - Installs and runs NMAP scans, gathers active directory information and check for password issues
 
